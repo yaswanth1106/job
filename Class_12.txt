@@ -1,0 +1,12 @@
+1.Default location of jenkins in linux server?
+/var/lib/jenkins/
+
+2. What is the default location of packages?
+/var/lib/jenkins/workspace/jobname/target/<filename>.war (or) .jar
+
+3. Default location of workspace?
+/var/lib/jenkins/workspace/
+
+4. M2 repository path?
+/root/.m2/repository
+
